@@ -1,0 +1,8 @@
+.Button {
+    background-color: #282c34;
+    display: inline-block;
+    
+    height: 30%;
+    width: 30%;
+    margin: 10px;
+}
